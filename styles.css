@@ -5,6 +5,7 @@
 body {
     font-family: 'Times New Roman', Times, serif;
     background-color: pink;
+    text-align: center;
      
 }
 .toka{
@@ -13,7 +14,7 @@ body {
 }
 p{
     font-size: 20px;
-    padding: 25%;
+    padding: 1px;
 
 }
 img{
